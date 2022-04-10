@@ -1,1 +1,2 @@
-# guess_two_numbers
+# computer guess the number.
+Program try to guess your number within the specified number of tries.
